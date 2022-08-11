@@ -1,0 +1,17 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="8">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="632" startPos="453" endPos="453" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\index.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="576" startPos="436" endPos="436" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\login.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="568" startPos="107" endPos="107" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\upload.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="568" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\browse.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="568" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\settings.php" />
+            <File firstVisibleLine="33" xOffset="0" scrollWidth="864" startPos="1615" endPos="1615" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\config.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\SimpleImage.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="CSS" encoding="-1" filename="C:\wamp\www\Kurtbase\style.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="864" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\insert_ac.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="584" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtbase\upload_file.php" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

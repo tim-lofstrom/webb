@@ -1,0 +1,115 @@
+body{
+	background-color:white;
+	border:0;
+	margin:0;
+}
+
+#header{
+	background-image: url('images/header.gif');
+	position:relative;
+	top:0;
+	height:141;
+}
+
+#logo{
+	position:relative;
+	float:left;
+}
+
+#body{
+	background-image: url('images/body.gif');
+	position:relative;
+	height:315;
+	width:532;
+	top:0;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#about{
+	position:relative;
+	float:left;
+}
+
+#login{
+	position:relative;
+	float:left;
+}
+
+#space{
+	position:relative;
+	float:left;
+	width:30;
+	height:5;
+}
+
+#menu{
+	position:relative;
+	width:650;
+	height:150;
+	top:10;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#text{
+	width:154;
+	height:25;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#logout{
+	position:absolute;
+	background-color:white;
+	left:0;
+	width:50;
+	height:30;
+}
+
+#register{
+	position:absolute;
+	right:0;
+	bottom:54;
+	width:150;
+	height:55;
+}
+
+#registerme{
+	position:absolute;
+	bottom:0;
+	height:54;
+	width:300;
+	border-style:none;
+	margin:0;
+}
+
+#antispam{
+	position:absolute;
+	right:5;
+	bottom:60;
+	height:30;
+	width:114;
+}
+
+#input{
+	position:relative;
+	width:150;
+	height:30;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#inputcheck{
+	position:absolute;
+	left:5;
+	bottom:60;
+}
+
+img{
+	border-style: none;
+}
+
+a{
+	outline: none;
+}

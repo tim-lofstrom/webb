@@ -1,0 +1,99 @@
+body{
+	background-color: white;
+	border:0;
+	margin:0;
+}
+
+#header{
+	background-image: url('images/header.gif');
+	position:relative;
+	height:154;
+}
+
+#logo{
+	position:relative;
+	float:left;
+	height:154;
+}
+
+#profile{
+	background-image: url('images/profile.gif');
+	position:relative;
+	width:364;
+	height:132;
+	float:right;
+	top:21;
+	right:20;
+}
+
+#avatar{
+	background-color:white;
+	position:relative;
+	border:3;
+	border-color:#0094d2;
+	border-style:solid;
+	top:24;
+	left:15;
+	width:80;
+	height:80;
+	float:left;
+}
+
+#user{
+	position:relative;
+	float:left;
+	left:30;
+	top:20;
+}
+
+#logout{
+	position:relative;
+	float:right;
+	right:10;
+	top:100;
+}
+
+#menu{
+	background-image: url('images/menu.gif');
+	position:relative;
+	height:31;
+}
+
+#input{
+	position:relative;
+	float:left;
+	left:50;
+}
+
+#text{
+	position:relative;
+	float:left;
+	left:50;
+	width:146;
+	height:39;
+}
+
+#space{
+	position:relative;
+	float:left;
+	width:27;
+	height:31;
+}
+
+#footer{
+	background-image: url('images/footer.gif');
+	position:absolute;
+	height:30;
+	width:100%;
+	bottom:0;
+}
+
+img{
+	border-style: none;
+	outline: none;
+}
+
+a{
+	border-style: none;
+	outline: none;
+}

@@ -1,0 +1,44 @@
+
+
+
+
+Jens variant av korvstroganoff
+Kurts variant av korvstroganoff
+kycklingsallad
+
+"kött-delen"
+Ostsnitzlar
+bacon
+kassler
+Köttbullar
+Korv
+Köttfärssås
+Pannbiff
+Kyckling
+Fläskfile
+Tonfisk
+fiskpinnar
+fiskbullar
+lax
+lunchkorv
+
+"tillbehörs-delen"
+Ris
+Spaghetti
+Makaroner
+tortellini
+tortellinigratäng
+Nudlar
+Makaroner
+Potatis
+Potatisklyftor
+Potatisgratäng
+Bröd
+
+"sås-delen"
+Tacosauce
+Vitlöksås
+Currysås
+sweet baby rays
+bea-sås
+

@@ -1,0 +1,46 @@
+body{
+	background-image: url('images/bg.gif');
+	border:0;
+	margin:0;
+}
+
+#menu{
+	background-image: url('images/menu.gif');
+	position:relative;
+	height:58;
+}
+
+#body{
+	background-color:black;
+	position:relative;
+	height:550;
+}
+
+#header{
+	position:absolute;
+}
+
+#start{
+	position:absolute;
+	left:250;
+}
+
+#settings{
+	position:absolute;
+	left:350;
+}
+
+#cameras{
+	position:absolute;
+	left:490;
+}
+
+#adduser{
+	position:absolute;
+	left:690
+}
+
+#logout{
+	position:absolute;
+	right:0;
+}

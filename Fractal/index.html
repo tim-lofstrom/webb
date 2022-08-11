@@ -1,0 +1,57 @@
+
+
+
+<html>
+<title></title>
+
+<body>
+
+<script src="http://spelprogrammering.nu/simple.js">
+
+	var axiom = 'F++F++F';
+	
+	var rules = {
+		"F": "F-F++F-F",
+		"+":"+",
+		"-":"-"
+	};
+	
+	var iterations = 2;
+	
+	var system = axiom;
+
+	var systems = 'F+F--F+F+F+F--F+F--F+F--F+F+F+F--F+F';
+	var length = 5;
+	var angle = 60;
+	
+	var actions = {'F':function(){turtle.moveWithPen(length);	},
+	'+':function(){turtle.turnLeft(angle);						},
+	'-':function(){turtle.turnRight(angle);						}};
+	
+	for (var i = 0; i < iterations;i++){
+		var currLen = system.length;
+		var newSys = "";
+		for(var u = 0; u < currLen;u++){
+			var currA = system[u];
+			newSys = newSys + rules[currA];
+		}
+		system = newSys
+	}
+	
+	for (var i = 0; i < system.length;i++){
+		var action = actions[system[i]];
+		action();
+	}
+	
+/*	function update()
+	{
+		turtle.moveWithPen(length);
+		turtle.turnLeft(angle);
+		length += 1;
+		angle += 0.0001;
+	}*/
+	
+</script>
+</body>
+
+</html>

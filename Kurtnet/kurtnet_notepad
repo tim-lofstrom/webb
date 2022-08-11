@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="6">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="624" startPos="39" endPos="39" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtnet\index.php" />
+            <File firstVisibleLine="40" xOffset="0" scrollWidth="624" startPos="320" endPos="320" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtnet\loggedin.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="616" startPos="140" endPos="140" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtnet\settings.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="568" startPos="139" endPos="139" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtnet\cameras.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="736" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtnet\changepw.php" />
+            <File firstVisibleLine="3" xOffset="0" scrollWidth="376" startPos="322" endPos="322" selMode="0" lang="CSS" encoding="-1" filename="C:\wamp\www\Kurtnet\style.css" />
+            <File firstVisibleLine="28" xOffset="0" scrollWidth="1632" startPos="1258" endPos="1258" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\Kurtnet\checklogin.php" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
